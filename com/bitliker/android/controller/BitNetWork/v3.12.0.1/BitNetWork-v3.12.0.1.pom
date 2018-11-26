@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.bitliker.android.controller</groupId>
   <artifactId>BitNetWork</artifactId>
-  <version>v3.11.0.6</version>
+  <version>v3.12.0.1</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>

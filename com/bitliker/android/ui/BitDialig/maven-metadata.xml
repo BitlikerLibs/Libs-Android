@@ -3,13 +3,14 @@
   <groupId>com.bitliker.android.ui</groupId>
   <artifactId>BitDialig</artifactId>
   <versioning>
-    <release>v1.0.3</release>
+    <release>v1.0.4</release>
     <versions>
       <version>v1.0.0</version>
       <version>v1.0.1</version>
       <version>v1.0.2</version>
       <version>v1.0.3</version>
+      <version>v1.0.4</version>
     </versions>
-    <lastUpdated>20190103015428</lastUpdated>
+    <lastUpdated>20190103020855</lastUpdated>
   </versioning>
 </metadata>

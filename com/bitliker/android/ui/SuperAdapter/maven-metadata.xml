@@ -3,10 +3,11 @@
   <groupId>com.bitliker.android.ui</groupId>
   <artifactId>SuperAdapter</artifactId>
   <versioning>
-    <release>v0.0.1</release>
+    <release>v0.0.2</release>
     <versions>
       <version>v0.0.1</version>
+      <version>v0.0.2</version>
     </versions>
-    <lastUpdated>20190214045225</lastUpdated>
+    <lastUpdated>20190214063508</lastUpdated>
   </versioning>
 </metadata>
